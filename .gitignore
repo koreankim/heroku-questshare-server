@@ -1,7 +1,6 @@
 .env.*
 .env
 .flaskenv.*
-api/config.py
 .serverless
 serverless.*
 node_modules
